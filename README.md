@@ -1,2 +1,2 @@
 # Supervised ML
-Catagory: Data Science and Business Analysis
+Category: Data Science and Business Analysis
